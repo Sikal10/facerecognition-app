@@ -1,0 +1,17 @@
+.form {
+    width: 700px;
+    /*background-color: #131313;*/
+    background: linear-gradient(315deg, transparent 75%, #d45d55 0)-10px 0,
+    linear-gradient(45deg, transparent 75%, #ff6e7f 0)-10px 0,
+    linear-gradient(135deg, #a7332b 50%, transparent 0) 0 0,
+    linear-gradient(45deg, #ff6e7f 50%, #561a16 0) 0 0 #561a16;
+    background-size: 20px 20px;
+}
+
+.inputs {
+    outline: 0;
+}
+
+.style {
+    background: linear-gradient(89deg, #ff6e7f 0%, #bfe9ff 100%);
+}
